@@ -1,0 +1,22 @@
+{
+  "name": "slot-gacor-fire138",
+  "main": "/slot-gacor-fire138",
+  "version": "1.12.1",
+  "description": "Fire138 adalah Situs Slot Online Gacor Yang Menggunakan Uang Asli Bahkan Mudah Diakses Memakai Gadget Berbasis Android Dan IOS.",
+  "keywords": [
+    "Slot Gacor Hari Ini",
+    "Situs Slot Gacor",
+    "Situs Slot Online",
+    "Slot Online",
+    "Slot Gampang Menang",
+    "Slot Gacor"
+  ],
+  "activationCommands": {
+    "atom-workspace": "slot-gacor-fire138:toggle"
+  },
+  "repository": "https://github.com/chargeraccount138/slot-gacor-fire138.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
